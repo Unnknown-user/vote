@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.Admin-menu {
+  background-color: cornflowerblue;
+  border-radius: 3px;
+  border-color: darkblue;
+  margin: 80px 80px ;
+}
+
+.Proposal-menu {
+  background-color: rosybrown;
+  border-radius: 3px;
+  border-color: brown;
+  margin: 80px 80px ;
+}
